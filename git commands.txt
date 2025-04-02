@@ -1,0 +1,6 @@
+=>git add filename           ->to add file in the folder
+=>git commit -m "message"    ->to save
+=>git push                   ->to add the file in GitHub repository
+=>git branch                 ->to know the branch
+=>git checkout branchName    ->to move main branch to branchName branch
+=>git pull                   ->to take the file from git to vs code
